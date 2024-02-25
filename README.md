@@ -60,5 +60,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
 ## Feedback
 
-If you have any feedback, please reach out to us at vibhutyagi214@gmail.com
+If you have any feedback, please reach out to us at https://www.linkedin.com/in/vibhu-tyagi-6a1129220
 
